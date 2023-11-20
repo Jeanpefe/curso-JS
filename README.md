@@ -1,3 +1,2 @@
 # curso-JS
-Curso de JS
-Cambio desde local 2
+Apuntes, atajos, consejos y buenas prácticas de JS.
